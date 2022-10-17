@@ -3,8 +3,8 @@ $(document).ready(function () {
     $("#currentDay").text(moment().format("dddd, MMMM Do, YYYY, h:mm:ss A")); // use of moment.js
    
     // saveBtn click listener for user input
-     $(".saveButton").on("click", function () {
-        var time = $(this).attr("id");
+     $("saveButton").on("click", function () {
+        var time = $(this).attr();
         var text = $(this).val();
        
         //set items in local storage.
@@ -50,5 +50,5 @@ $(document).ready(function () {
     })
 }
 hourTracker(); //re-run function
-})
+});
 

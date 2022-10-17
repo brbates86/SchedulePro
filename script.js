@@ -2,7 +2,7 @@ $(document).ready(function () {
     //display current day & time.
     $("#currentDay").text(moment().format("dddd, MMMM Do, YYYY, h:mm:ss A")); // use of moment.js
    
-    // saveBtn click listener for user input
+    // saveButtton click for user input
     var saveButton = $("saveButton"); 
     $("saveButton").on("click", function () {
         var time = $(this).attr();

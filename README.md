@@ -19,7 +19,7 @@ The task block will change color based on the current time: gray for past hours,
 The workday scheduler requires a modern web browser with JavaScript enabled.
 
 ## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed. https://brbates86.github.io/Work-Day-Schedule/
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed. https://brbates86.github.io/SchedulePro/
 
 
 ![Screenshot 2023-03-31 at 10 22 19 AM](https://user-images.githubusercontent.com/110508944/229162459-464482cc-487a-4af7-a751-227822ccfec3.png)

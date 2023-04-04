@@ -2,7 +2,7 @@ body {
   font-family: monospace;
   font-size: 16px;
   line-height: 1;
-  background-color: #f15a24;
+  background-color: #ffffff;
 }
 
 
@@ -50,7 +50,7 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #c4c4c4;
   color: white;
 }
 
